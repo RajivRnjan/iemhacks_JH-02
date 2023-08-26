@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--secondary-bg-color);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root{
+  --primary-bg-color:#FFFFFF;
+  --secondary-bg-color:#F6F6F6;
+  --tertiary-bg-color:#2B2828;
+
+  --primary-color:#6271FF;
+  --secondary-color:#FF4D00;
+  --tertiary-color:#242661;
+  
+  --primary-text-color:#FFFFFF;
+  --secondary-text-color:#8E8E8E;
+  --tertiary-text-color:#6C6C6C;
+
+  --footer-color:#03161d;
+
+
+  /*Font size desktop*/
+  --primary-desktop--font:2.5rem;
+  --secondary-desktop--font:2rem;
+  --tertiary-desktop--font:1.5rem;
+
+  --desktop-paragraph-font:1.1rem;
+
+
+  /*Font size tablet*/
+  --primary-tablet--font:2rem;
+  --secondary-tablet--font:1.5rem;
+  --tertiary-tablet--font:1.3rem;
+
+  --tablet-paragraph-font:1rem;
+
+
+  /*Font size phone*/
+  --primary-phone--font:1.7rem;
+  --secondary-phone--font:1.3rem;
+  --tertiary-phone--font:1rem;
+  
+
+  --phone-paragraph-font:0.9rem;
+}
