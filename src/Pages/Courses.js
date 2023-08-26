@@ -12,7 +12,11 @@ function Courses() {
 
           <div className="CourseCardContainer">
             <div className="CourseCard">
+            <div className="freeimg">
               <h3>Resources for</h3>
+              <img src="/iemhacks_JH-02/images/Icons/free.svg" alt="freeimg"/>
+            </div>
+              
               <h4>Benefits : </h4>
               <ul>
                 <li>
@@ -37,7 +41,7 @@ function Courses() {
                 </li>
               </ul>
               <Link to="/freecourses">
-                {" "}
+                
                 <button>Get Started</button>
               </Link>
 
@@ -56,7 +60,11 @@ function Courses() {
 
             
             <div className="CourseCard">
+            <div className="freeimg">
               <h3>Resources for</h3>
+              <img src="/iemhacks_JH-02/images/Icons/paid.svg" alt="paidimg"/>
+            </div>
+           
               <h4>Benefits : </h4>
               <ul>
                 <li>
@@ -80,8 +88,8 @@ function Courses() {
                   Dedicated Support
                 </li>
               </ul>
-              <Link to="">
-                {" "}
+              <Link to="/paidcourses">
+               
                 <button>Get Started</button>
               </Link>
 

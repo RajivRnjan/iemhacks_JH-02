@@ -7,10 +7,11 @@ Theme chosen : Ed- Tech
 Problem Statement:Creating an effective online platform to guide individuals in their career paths and provide access to various courses and educational resources.
 
 
-# CONTRIBUTER'S GITHUB USERNAME
+# TEAM'S GITHUB USERNAME
 rajivrnjan.github.io
 vaibhavSrijan.github.io
 pawankr7.github.io
+Adityalekhak078.github.io
 
 
 # Getting Started with Create React App

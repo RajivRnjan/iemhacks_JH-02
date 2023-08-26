@@ -216,6 +216,10 @@ button {
   }
 }
 
+/*=====DASHBOARD PAGE=====*/
+/*=====DASHBOARD PAGE=====*/
+
+
 /*=====CARRER PATH PAGE=====*/
 /*=====CARRER PATH PAGE=====*/
 #Container {
@@ -293,8 +297,8 @@ button {
   }
   .CarrerPath .Heading h2,
 .Courses .Heading h2 {
-  font-size: var(--secondary-phone--font);
-  margin: 10px 0;
+  font-size: var(--primary-phone--font);
+  margin: 30px 0;
 }
   .CarrerPath .Card,
   .CourseCardContainer .CourseCard{
@@ -306,6 +310,14 @@ button {
 /*=====COURSES PAGE=====*/
 .CourseCardContainer {
   margin: 20px 100px;
+}
+.CourseCard .freeimg{
+  display: flex;
+  justify-content: space-between;
+}
+.CourseCard > img{
+  display: inline-block;
+  
 }
 .CourseCardContainer .CourseCard {
   width: calc(100% / 3);
@@ -328,6 +340,7 @@ button {
 .CourseCardContainer .CourseCard h3 {
   font-size: var(--tertiary-desktop--font);
   margin: 10px 0 20px 0;
+  display: inline-block;
 }
 .CourseCardContainer .CourseCard h4 {
   font-size: 20px;
@@ -361,12 +374,20 @@ button {
   }
 
 .Courses .Heading h2 {
-  font-size: var(--secondary-phone--font);
-  margin: 10px 0;
+  font-size: var(--primary-phone--font);
+  margin: 30px 0;
 }
   
   .CourseCardContainer .CourseCard{
     width:fit-content;
+  }
+  .CourseCardContainer .CourseCard h3 {
+    font-size: var(--secondary-phone--font);
+    margin: 10px 0 20px 0;
+    display: inline-block;
+  }
+  .CourseCardContainer .CourseCard h4 {
+    font-size: 18px;
   }
 }
 
@@ -449,3 +470,5 @@ margin: 0;
   }
   
 }
+/*======ROAD MAP======*/
+/*======ROAD MAP======*/

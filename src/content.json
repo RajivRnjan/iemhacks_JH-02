@@ -4,7 +4,7 @@
             "img" : "/iemhacks_JH-02/images/Banner/data analyst.png",
             "desc" : "A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
             "Avg_salary":"4.1 lakh",
-            "link":""
+            "link":"/roadmapDS"
         },
         {
             "img" : "/iemhacks_JH-02/images/Banner/data analyst.png",
@@ -61,6 +61,50 @@
         
     ],
     "free_courses":[
+        {
+            "title":"Web Development in 2023",
+            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
+            "desc":"A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
+            "author":"Rajiv Ranjan",
+            "duration":"3 month"
+        },
+        {
+            "title":"Web Development in 2023",
+            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
+            "desc":"A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
+            "author":"Rajiv Ranjan",
+            "duration":"3 month"
+        },
+        {
+            "title":"Web Development in 2023",
+            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
+            "desc":"A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
+            "author":"Rajiv Ranjan",
+            "duration":"3 month"
+        },
+        {
+            "title":"Web Development in 2023",
+            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
+            "desc":"A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
+            "author":"Rajiv Ranjan",
+            "duration":"3 month"
+        },
+        {
+            "title":"Web Development in 2023",
+            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
+            "desc":"A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
+            "author":"Rajiv Ranjan",
+            "duration":"3 month"
+        },
+        {
+            "title":"Web Development in 2023",
+            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
+            "desc":"A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
+            "author":"Rajiv Ranjan",
+            "duration":"3 month"
+        }
+    ],
+    "paid_courses":[
         {
             "title":"Web Development in 2023",
             "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",

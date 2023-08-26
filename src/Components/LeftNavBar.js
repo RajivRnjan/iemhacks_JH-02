@@ -13,7 +13,7 @@ function LeftNavBar() {
     <div id="LeftNavBar">
         <div className="Upper">
             <ul>
-                <Link to=""><li><BsFillGrid1X2Fill className="leftNavbar-icon" size={"18px"}/><span>Dashboard</span></li></Link>
+                <Link to="/"><li><BsFillGrid1X2Fill className="leftNavbar-icon" size={"18px"}/><span>Dashboard</span></li></Link>
                 <Link to="/carrerpath"><li><BsFillCartCheckFill className="leftNavbar-icon"/><span>Carrer Path</span></li></Link>
                 <Link to="/courses"><li><FaGraduationCap className="leftNavbar-icon"/><span>Course</span></li></Link>
                 <Link to="/trending"><li><SiTrendmicro/><span>Trending</span></li></Link>
