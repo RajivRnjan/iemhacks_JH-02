@@ -234,7 +234,7 @@ button {
   margin: 10px 0;
 }
 .CarrerPath .CardContainer,
-.CourseCardContainer {
+.CourseCardContainer,.FreeCourseContainer {
   margin: 30px;
   display: flex;
   flex-wrap: wrap;
@@ -273,7 +273,8 @@ button {
   border-radius: 7px 7px 0 0;
 }
 .CarrerPath .Card button,
-.CourseCardContainer .CourseCard button {
+.CourseCardContainer .CourseCard button ,
+.FreeCourseCard button{
   padding: 8px 25px;
   margin: 15px 0;
   border-radius: 4px;
@@ -281,7 +282,7 @@ button {
   color: var(--primary-bg-color);
   transition: all 0.5s;
 }
-.CarrerPath .Card button:hover {
+.CarrerPath .Card button:hover, .FreeCourseCard button:hover {
   background-color: var(--primary-color);
 }
 @media screen and (max-width:769px){
@@ -367,4 +368,68 @@ button {
   .CourseCardContainer .CourseCard{
     width:fit-content;
   }
+}
+
+/*======FREE COURSE======*/
+/*======FREE COURSE======*/
+.FreeCourseContainer{
+  gap:10px;
+  row-gap: 40px;
+}
+.FreeCourseContainer .FreeCourseCard{
+  width: calc(100%/3.5);
+  border-radius: 7px;
+  padding:15px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 7.859px;
+background: #FFF;
+box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.15);
+  /* gap:10px; */
+  background-color: var(--primary-bg-color);
+}
+.FreeCourseCard .FreeCourseCardTop{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.FreeCourseCard img{
+  width:18px;
+}
+.FreeCourseCard .certificate{
+  font-size: var(--phone-paragraph-font);
+
+  font-weight: 700;
+}
+
+.FreeCourseCardRow{
+  font-size: var(--phone-paragraph-font);
+}
+.FreeCourseCard .desc{
+  color:var(--secondary-text-color);
+  margin-bottom:10px;
+}
+.FreeCourseCard .FreeCourseCardRow{
+  display: flex;
+  justify-content: space-between;
+  font-weight: 700;
+}
+.FreeCourseCard button{
+width: max-content;
+align-self: flex-end;
+margin: 0;
+}
+@media screen and (max-width:769px) {
+  .FreeCourseContainer .FreeCourseCard{
+    width:100%;
+  }
+  .FreeCourseCard h3{
+    font-size: var(--tertiary-phone--font);
+  }
+  .FreeCourseCard img{
+    width:13px;
+  }
+  .FreeCourseCard .certificate{
+  }
+  
 }

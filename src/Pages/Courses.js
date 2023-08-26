@@ -36,7 +36,7 @@ function Courses() {
                   Basic Certificates
                 </li>
               </ul>
-              <Link to="">
+              <Link to="/freecourses">
                 {" "}
                 <button>Get Started</button>
               </Link>

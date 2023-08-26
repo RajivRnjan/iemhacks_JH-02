@@ -6,6 +6,7 @@ import LeftNavBar from './Components/LeftNavBar';
 import CarrerPath from './Pages/CarrerPath';
 import Courses from './Pages/Courses';
 import TrendingCarrerPath from './Pages/TrendingCarrerPath';
+import FreeCourses from './Pages/FreeCourses';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Route exact path="/carrerpath" element={<CarrerPath/>}/>
       <Route exact path="/trending" element={<TrendingCarrerPath/>}/>
       <Route exact path="/courses" element={<Courses/>}/>
+      <Route exact path="/freecourses" element={<FreeCourses/>}/>
 
       </Routes>
     </HashRouter>
