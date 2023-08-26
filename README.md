@@ -1,3 +1,18 @@
+# PROJECT iemhacks_JH-02
+
+Team’s Registered Email ID: vaibhavsrijan782@gmail.com
+Team name : JH-02
+Team member's name : Vaibhav Srijan , Rajiv Ranjan, Aditya Kumar  and Pawan Kumar 
+Theme chosen : Ed- Tech
+Problem Statement:Creating an effective online platform to guide individuals in their career paths and provide access to various courses and educational resources.
+
+
+# CONTRIBUTER'S GITHUB USERNAME
+rajivrnjan.github.io
+vaibhavSrijan.github.io
+pawankr7.github.io
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
