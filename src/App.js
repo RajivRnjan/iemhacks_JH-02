@@ -10,7 +10,7 @@ import TrendingCarrerPath from './Pages/TrendingCarrerPath';
 import FreeCourses from './Pages/FreeCourses';
 import PaidCourses from './Pages/PaidCourses';
 import RoadMapDataScientist from './Pages/RoadMapDataScientist';
-
+import Logout from './Pages/Logout';
 function App() {
   return (
     <>
@@ -25,8 +25,10 @@ function App() {
       <Route exact path="/freecourses" element={<FreeCourses/>}/>
       <Route exact path="/paidcourses" element={<PaidCourses/>}/>
       <Route exact path="/roadmapDS" element={<RoadMapDataScientist/>}/>
+      <Route exact path="/logout" element={<Logout/>}/>
 
       </Routes>
+      <Footer/>
     </HashRouter>
     </>
   );

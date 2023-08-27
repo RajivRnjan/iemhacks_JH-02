@@ -15,8 +15,8 @@ function Dashboard() {
                   <img src="/iemhacks_JH-02/images/image.png" alt="img" />
                 </div>
                 <div className="Box-1R">
-                  <h5>Data Analysis</h5>
-                  <p><BsFillPeopleFill className="people"/>Rajiv Ranjan - Mentor</p>
+                  <h5>Data Scientist</h5>
+                  <p><BsFillPeopleFill className="people"/>Radhe Shyam - Mentor</p>
                   <p>30% completed</p>
                 </div>
               </div>
@@ -25,8 +25,8 @@ function Dashboard() {
                   <img src="/iemhacks_JH-02/images/image.png" alt="img" />
                 </div>
                 <div className="Box-1R">
-                  <h5>Data Analysis</h5>
-                  <p><BsFillPeopleFill className="people"/>Rajiv Ranjan - Mentor</p>
+                  <h5>Machine Learning  Engineer</h5>
+                  <p><BsFillPeopleFill className="people"/>Radhe Shyam - Mentor</p>
                   <p>30% completed</p>
                 </div>
               </div>
@@ -40,8 +40,8 @@ function Dashboard() {
                   <img src="/iemhacks_JH-02/images/image.png" alt="img" />
                 </div>
                 <div className="Box-1R">
-                  <h5>Data Analysis</h5>
-                  <p><BsFillPeopleFill className="people"/>Rajiv Ranjan - Mentor</p>
+                  <h5>Data Visualization </h5>
+                  <p><BsFillPeopleFill className="people"/>Radhe Shyam - Mentor</p>
                   <p>30% completed</p>
                 </div>
               </div>
@@ -50,8 +50,8 @@ function Dashboard() {
                   <img src="/iemhacks_JH-02/images/image.png" alt="img" />
                 </div>
                 <div className="Box-1R">
-                  <h5>Data Analysis</h5>
-                  <p><BsFillPeopleFill className="people"/>Rajiv Ranjan - Mentor</p>
+                  <h5>Introduction to Machine learning </h5>
+                  <p><BsFillPeopleFill className="people"/>Radhe Shyam - Mentor</p>
                   <p>30% completed</p>
                 </div>
               </div>
@@ -63,9 +63,31 @@ function Dashboard() {
           {/* Left Boxes End */}
 
           <div className="Right">
-            <div className="RightBox1">
-              <h1>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h1>
+            <div className="LeftBox1">
+              <h3>For You</h3>
+              <div className="Box-1">
+                <div className="Box-1L">
+                  <img src="/iemhacks_JH-02/images/image.png" alt="img" />
+                </div>
+                <div className="Box-1R">
+                  <h5>Introduction to LLMs  </h5>
+                  <p><BsFillPeopleFill className="people"/>Radhe Shyam - Mentor</p>
+                  <p>30% completed</p>
+                </div>
+              </div>
+              <div className="Box-1">
+                <div className="Box-1L">
+                  <img src="/iemhacks_JH-02/images/image.png" alt="img" />
+                </div>
+                <div className="Box-1R">
+                  <h5>Introduction to Deep learning </h5>
+                  <p><BsFillPeopleFill className="people"/>Radhe Shyam - Mentor</p>
+                  <p>30% completed</p>
+                </div>
+              </div>
+              <Link to="">See More</Link>
             </div>
+            
             <div className="RightBox2">
               <h3>People Choose Carrer</h3>
               <div className="">

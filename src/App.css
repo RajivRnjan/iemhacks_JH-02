@@ -128,12 +128,12 @@ button {
 /*=====LEFT NAVBAR=====*/
 #LeftNavBar {
   width: 200px;
-  height: 90vh;
+  /* height: 80vh; */
   padding: 20px 30px;
   background-color: var(--primary-bg-color);
   position: fixed;
   left: 0;
-  top: 90px;
+  top: 80px;
   display: flex;
   flex-direction: column;
   /* align-content: space-between; */
@@ -142,6 +142,10 @@ button {
   /* justify-content: center; */
 }
 
+.active{
+  color: var(--primary-color);
+  font-weight: 600;
+}
 #LeftNavBar .Upper ul {
   display: flex;
   flex-direction: column;
@@ -159,7 +163,7 @@ button {
   box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px,
     rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px,
     rgba(0, 0, 0, 0.07) 0px 16px 16px;
-  color: var(--tertiary-text-color);
+  /* color:var(--tertiary-text-color) */
 }
 .leftNavbar-icon {
   font-size: 20px;
@@ -216,6 +220,36 @@ button {
   }
 }
 
+/*=====FOOTER=====*/
+/*=====FOOTER=====*/
+footer{
+  position: relative;
+  /* z-index: 99; */
+  top: 100%;
+  /* bottom: 0; */
+}
+.FooterContainer{
+
+  color: var(--primary-bg-color);
+  
+  padding: 15px 30px;
+  background:#6271FF;
+  display: flex;
+  justify-content: space-between;
+}
+.FooterContainer .Right{
+  display: flex;
+  gap:15px;
+}
+@media screen and (max-width:769px){
+  .FooterContainer{
+    font-size: var(--phone-paragraph-font);
+    padding: 15px ;
+    flex-direction: column;
+    gap: 5px;
+  }
+}
+
 /*=====DASHBOARD PAGE=====*/
 /*=====DASHBOARD PAGE=====*/
 .Dashboard {
@@ -230,7 +264,15 @@ button {
   gap: 20px;
   flex: 0.5;
 }
-
+.Dashboard .Right .LeftBox1{
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.15);
+  padding: 20px;
+  gap: 20px;
+}
 .Dashboard .Left .LeftBox1,
 .Dashboard .Left .LeftBox2,
 .Dashboard .Right .RightBox1,
@@ -257,7 +299,31 @@ button {
   font-size: var(--tablet-paragraph-font);
   color:var(--tertiary-text-color)
 }
+.Dashboard .Right h3{
+  font-size: var(--tertiary-desktop--font);
+}
+.Dashboard .Right h5{
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+.Dashboard .Right .people{
+  margin-right: 5px;
+}
+.Dashboard .Right p{
+  font-size: var(--tablet-paragraph-font);
+  color:var(--tertiary-text-color)
+}
 .Dashboard .Left .Box-1 {
+  display: flex;
+  align-items: center;
+  border-radius: 7px;
+  border: 1px solid var(--secondary-text-color);
+  padding: 15px;
+  gap: 10px;
+  /* margin: 20px 0; */
+  /* justify-content: space-between; */
+}
+.Dashboard .Right .Box-1 {
   display: flex;
   align-items: center;
   border-radius: 7px;
@@ -606,6 +672,11 @@ button {
 .RoadMapContainer .Left .box p {
   text-align: center;
 }
+.RoadMapContainer .Left .box tr{
+  display: flex;
+  gap:10px;
+
+}
 .RoadMapContainer .Left .box button {
   color: var(--primary-color);
   padding: 5px 15px;
@@ -666,7 +737,7 @@ button {
 .RoadMapContainer .Right h4 {
   font-size: var(--desktop-paragraph-font);
 }
-.RoadMapContainer .Right ul {
+ .RoadMapContainer .Right ul {
   display: flex;
   flex-direction: column;
   gap: 7px;
