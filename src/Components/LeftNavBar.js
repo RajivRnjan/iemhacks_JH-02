@@ -11,7 +11,7 @@ function LeftNavBar() {
   return (
     <>
     
-    <div id="LeftNavBar">
+    <div className="leftnavbar" id="LeftNavBar">
         <div className="Upper">
             <ul>
                 <NavLink to="/"><li><BsFillGrid1X2Fill className="leftNavbar-icon" size={"18px"}/><span>Dashboard</span></li></NavLink>

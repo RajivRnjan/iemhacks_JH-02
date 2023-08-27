@@ -1,171 +1,184 @@
 {
-    "carrier_path" : [
-        {
-            "img" : "/iemhacks_JH-02/images/Banner/software-eng.png",
-            "desc" : "Software engineers are responsible for designing, developing, and testing software applications.",
-            "Avg_salary":"5.1 lakh",
-            "link":"/roadmapDS"
-        },
-        {
-            "img" : "/iemhacks_JH-02/images/Banner/data-scientist.png",
-            "desc" : "Data scientists are often expected to form their own questions about the data.",
-            "Avg_salary":"7.6 lakh",
-            "link":"/roadmapDS"
-        },
-        {
-            "img" : "/iemhacks_JH-02/images/Banner/data analyst.png",
-            "desc" : "A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
-            "Avg_salary":"4.1 lakh",
-            "link":"/roadmapDS"
-        },
-        {
-            "img" : "/iemhacks_JH-02/images/Banner/cyber-eng.png",
-            "desc" : "Cyber engineers are responsible for protecting computer systems and networks from cyberattacks.",
-            "Avg_salary":"6.0 lakh",
-            "link":"/roadmapDS"
-        },
-        {
-            "img" : "/iemhacks_JH-02/images/Banner/ux-eng.png",
-            "desc" : "UX designers create user interfaces that are easy to use and enjoyable in any project.",
-            "Avg_salary":"6.4 lakh",
-            "link":"/roadmapDS"
-        },
-        {
-            "img" : "/iemhacks_JH-02/images/Banner/ai-eng.png",
-            "desc" : "Artificial intelligence engineers are responsible for developing and deploying AI systems.",
-            "Avg_salary":"10 lakh",
-            "link":"/roadmapDS"
-        }
-
-    ],
-    "trending_carrerPath":[
-        
-            {
-                "img" : "/iemhacks_JH-02/images/Banner/cyber-eng.png",
-                "desc" : "Cyber engineers are responsible for protecting computer systems and networks from cyberattacks.",
-                "Avg_salary":"6.0 lakh",
-                "link":"/roadmapDS"
-            }, 
-            {
-                "img" : "/iemhacks_JH-02/images/Banner/ai-eng.png",
-                "desc" : "Artificial intelligence engineers are responsible for developing and deploying AI systems.",
-                "Avg_salary":"10 lakh",
-                "link":"/roadmapDS"
-            }, 
-            {
-                "img" : "/iemhacks_JH-02/images/Banner/ux-eng.png",
-                "desc" : "AUX designers create user interfaces that are easy to use and enjoyable.",
-                "Avg_salary":"6.4 lakh",
-                "link":"/roadmapDS"
-            }
-        
-    ],
-    "free_courses":[
-        {
-            "title":"Web Development in 2023",
-            "desc":"Learn how to develop a responsive and functional website.",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "duration":"6 month"
-        },
-        {
-            "title":"Web Development in 2023",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "desc":"A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
-            "author":"N/A",
-            "duration":"94 lession"
-        },
-        {
-            "title":"Web Design in 2023",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "desc":"Learn how to develop a responsive and functional website. ",
-            "author":"N/A",
-            "duration":"3 month"
-        },
-        {
-            "title":"Ethical hacking",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "desc":"Become a Hacker",
-            "author":"N/A",
-            "duration":"3 month"
-        },
-        {
-            "title":"MS Excel",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "desc":"Learn how to develop a responsive and functional website.",
-            "author":"Rajiv Ranjan",
-            "duration":"1 month"
-        },
-        {
-            "title":"Automation",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "desc":"Learn how to develop a responsive and functional website.",
-            "author":"N/A",
-            "duration":"78 Lession"
-        },
-        {
-            "title":"Game Development",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "desc":"Learn how to develop a responsive and functional website.",
-            "author":"N/A",
-            "duration":"178 Lession"
-        },
-        {
-            "title":"Digital Marketing Basics",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "desc":"Learn how to develop a responsive and functional website.",
-            "author":"N/A",
-            "duration":"48 Lession"
-        },
-        {
-            "title":"IOT 101",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "desc":"Learn how to develop a responsive and functional website.",
-            "author":"N/A",
-            "duration":"30 Lession"
-        }
-    ],
-    "paid_courses":[
-        {
-            "title":"Web Development in 2023",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "desc":"Learn how to develop a responsive and functional website.",
-            "author":"Rajiv Ranjan",
-            "duration":"3 month"
-        },
-        {
-            "title":"App Development in 2023",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "desc":"Learn how to develop a responsive and functional website.",
-            "author":"Rajiv Ranjan",
-            "duration":"6 month"
-        },
-        {
-            "title":"Web Design in 2023",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "desc":"Learn how to develop a responsive and functional website.",
-            "author":"Rajiv Ranjan",
-            "duration":"3 month"
-        },
-        {
-            "title":"Web Design in 2023",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "desc":"Learn how to develop a responsive and functional website.",
-            "author":"Pawan ji",
-            "duration":"3 month"
-        },
-        {
-            "title":"Web Development in 2023",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "desc":"A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
-            "author":"Rajiv Ranjan",
-            "duration":"3 month"
-        },
-        {
-            "title":"Web Development in 2023",
-            "icon":"/iemhacks_JH-02/images/Icons/udemy.svg",
-            "desc":"A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
-            "author":"Rajiv Ranjan",
-            "duration":"3 month"
-        }
-    ]
+  "carrier_path": [
+    {
+      "img": "/iemhacks_JH-02/images/Banner/software-eng.png",
+      "desc": "Software engineers are responsible for designing, developing, and testing software applications.",
+      "Avg_salary": "5.1 lakh",
+      "link": "/roadmapDS"
+    },
+    {
+      "img": "/iemhacks_JH-02/images/Banner/data-scientist.png",
+      "desc": "Data scientists are often expected to form their own questions about the data.",
+      "Avg_salary": "7.6 lakh",
+      "link": "/roadmapDS"
+    },
+    {
+      "img": "/iemhacks_JH-02/images/Banner/data analyst.png",
+      "desc": "A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
+      "Avg_salary": "4.1 lakh",
+      "link": "/roadmapDS"
+    },
+    {
+      "img": "/iemhacks_JH-02/images/Banner/cyber-eng.png",
+      "desc": "Cyber engineers are responsible for protecting computer systems and networks from cyberattacks.",
+      "Avg_salary": "6.0 lakh",
+      "link": "/roadmapDS"
+    },
+    {
+      "img": "/iemhacks_JH-02/images/Banner/ux-eng.png",
+      "desc": "UX designers create user interfaces that are easy to use and enjoyable in any project.",
+      "Avg_salary": "6.4 lakh",
+      "link": "/roadmapDS"
+    },
+    {
+      "img": "/iemhacks_JH-02/images/Banner/ai-eng.png",
+      "desc": "Artificial intelligence engineers are responsible for developing and deploying AI systems.",
+      "Avg_salary": "10 lakh",
+      "link": "/roadmapDS"
+    }
+  ],
+  "trending_carrerPath": [
+    {
+      "img": "/iemhacks_JH-02/images/Banner/cyber-eng.png",
+      "desc": "Cyber engineers are responsible for protecting computer systems and networks from cyberattacks.",
+      "Avg_salary": "6.0 lakh",
+      "link": "/roadmapDS"
+    },
+    {
+      "img": "/iemhacks_JH-02/images/Banner/ai-eng.png",
+      "desc": "Artificial intelligence engineers are responsible for developing and deploying AI systems.",
+      "Avg_salary": "10 lakh",
+      "link": "/roadmapDS"
+    },
+    {
+      "img": "/iemhacks_JH-02/images/Banner/ux-eng.png",
+      "desc": "AUX designers create user interfaces that are easy to use and enjoyable.",
+      "Avg_salary": "6.4 lakh",
+      "link": "/roadmapDS"
+    }
+  ],
+  "free_courses": [
+    {
+      "title": "Web Development in 2023",
+      "desc": "Learn how to develop a responsive and functional website.",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "author": "N/A",
+      "duration": "6 month",
+      "link":"https://www.mygreatlearning.com/academy/learn-for-free/courses/cloud-foundations"
+    },
+    {
+      "title": "Web Development in 2023",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "desc": "A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
+      "author": "N/A",
+      "duration": "94 lession",
+      "link":""
+    },
+    {
+      "title": "Web Design in 2023",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "desc": "Learn how to develop a responsive and functional website. ",
+      "author": "N/A",
+      "duration": "3 month",
+      "link":""
+    },
+    {
+      "title": "Ethical hacking",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "desc": "Become a Hacker",
+      "author": "N/A",
+      "duration": "3 month",
+      "link":""
+    },
+    {
+      "title": "MS Excel",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "desc": "Learn how to develop a responsive and functional website.",
+      "author": "Rajiv Ranjan",
+      "duration": "1 month",
+      "link":""
+    },
+    {
+      "title": "Automation",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "desc": "Learn how to develop a responsive and functional website.",
+      "author": "N/A",
+      "duration": "78 Lession",
+      "link":""
+    },
+    {
+      "title": "Game Development",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "desc": "Learn how to develop a responsive and functional website.",
+      "author": "N/A",
+      "duration": "178 Lession",
+      "link":""
+    },
+    {
+      "title": "Digital Marketing Basics",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "desc": "Learn how to develop a responsive and functional website.",
+      "author": "N/A",
+      "duration": "48 Lession",
+      "link":""
+    },
+    {
+      "title": "IOT 101",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "desc": "Learn how to develop a responsive and functional website.",
+      "author": "N/A",
+      "duration": "30 Lession",
+      "link":""
+    }
+  ],
+  "paid_courses": [
+    {
+      "title": "Web Development in 2023",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "desc": "Learn how to develop a responsive and functional website.",
+      "author": "Rajiv Ranjan",
+      "duration": "3 month",
+      "link":""
+    },
+    {
+      "title": "App Development in 2023",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "desc": "Learn how to develop a responsive and functional website.",
+      "author": "Rajiv Ranjan",
+      "duration": "6 month",
+      "link":""
+    },
+    {
+      "title": "Web Design in 2023",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "desc": "Learn how to develop a responsive and functional website.",
+      "author": "Rajiv Ranjan",
+      "duration": "3 month",
+      "link":""
+    },
+    {
+      "title": "Web Design in 2023",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "desc": "Learn how to develop a responsive and functional website.",
+      "author": "Pawan ji",
+      "duration": "3 month",
+      "link":""
+    },
+    {
+      "title": "Web Development in 2023",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "desc": "A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
+      "author": "Rajiv Ranjan",
+      "duration": "3 month",
+      "link":""
+    },
+    {
+      "title": "Web Development in 2023",
+      "icon": "/iemhacks_JH-02/images/Icons/udemy.svg",
+      "desc": "A data analyst is a person whose job is to gather and interpret data in order to solve a specific problem",
+      "author": "Rajiv Ranjan",
+      "duration": "3 month",
+      "link":""
+    }
+  ]
 }

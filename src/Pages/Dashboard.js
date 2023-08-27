@@ -8,7 +8,7 @@ function Dashboard() {
       <div id="Container">
         <div className="Dashboard">
           <div className="Left">
-            <div className="LeftBox1">
+            <div className="LeftBox1 Darkbox">
               <h3>Your Selected Path</h3>
               <div className="Box-1">
                 <div className="Box-1L">
@@ -33,7 +33,7 @@ function Dashboard() {
               <Link to="">See More</Link>
             </div>
 
-            <div className="LeftBox2">
+            <div className="LeftBox2 Darkbox">
               <h3>Your Selected Course</h3>
               <div className="Box-1">
                 <div className="Box-1L">
@@ -63,7 +63,7 @@ function Dashboard() {
           {/* Left Boxes End */}
 
           <div className="Right">
-            <div className="LeftBox1">
+            <div className="LeftBox1 Darkbox">
               <h3>For You</h3>
               <div className="Box-1">
                 <div className="Box-1L">
@@ -88,7 +88,7 @@ function Dashboard() {
               <Link to="">See More</Link>
             </div>
             
-            <div className="RightBox2">
+            <div className="RightBox2 Darkbox">
               <h3>People Choose Carrer</h3>
               <div className="">
                 <div className="list">

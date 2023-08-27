@@ -15,7 +15,11 @@ button {
   all: unset;
   cursor: pointer;
 }
+body{
 
+
+-webkit-tap-highlight-color: transparent; /* for removing the highlight */
+}
 /*=====NAVBAR=====*/
 /*=====NAVBAR=====*/
 #nav {
@@ -431,6 +435,11 @@ footer{
   transition: all 0.5s ease-in-out;
   background-color: var(--primary-bg-color);
 }
+ .Card .Img{
+  width: 100%;
+}
+
+
 .CarrerPath .Card:hover {
   transform: scale(1.05);
 }

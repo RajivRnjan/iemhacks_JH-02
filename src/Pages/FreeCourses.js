@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import freeCoursesData from "../content.json";
 import { BsFillPeopleFill, BsFillClockFill } from "react-icons/bs";
 import { FaMedal } from "react-icons/fa";
@@ -38,7 +39,7 @@ function FreeCourses() {
                   <span><FaMedal />
                   Certificates
                 </span></div>
-                <button>Free</button>
+                <button><Link to={freeCourse[1].link} target="_blank">Free</Link></button>
               </div>
             );
           })}
