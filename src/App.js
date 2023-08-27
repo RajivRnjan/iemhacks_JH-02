@@ -98,7 +98,7 @@ function App() {
           <Route exact path="/paidcourses" element={<PaidCourses />} />
           <Route exact path="/roadmapDS" element={<RoadMapDataScientist />} />
           <Route exact path="/fundamental" element={<Fundamental />} />
-          <Route exact path="/logout" element={<Logout />} />
+          <Route exact path="/logout" element={<Dashboard />} />
         </Routes>
         <Footer />
       </HashRouter>
