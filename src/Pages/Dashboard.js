@@ -89,7 +89,7 @@ function Dashboard() {
             </div>
             
             <div className="RightBox2 Darkbox">
-              <h3>People Choose Carrer</h3>
+              <h3>People Choice</h3>
               <div className="">
                 <div className="list">
                   <span>Artificial Intelligance</span>

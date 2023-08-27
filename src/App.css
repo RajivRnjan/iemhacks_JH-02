@@ -687,11 +687,12 @@ footer{
 
 }
 .RoadMapContainer .Left .box button {
+  display: flex;
   color: var(--primary-color);
   padding: 5px 15px;
   font-weight: 500;
   border-radius: 10px;
-
+ align-items: center;
   box-shadow: 2px 1px 8px 0px rgba(0, 0, 0, 0.12);
 }
 .RoadMapContainer .arrow {
@@ -703,7 +704,7 @@ footer{
 .Dashboard .LeftBox2 a,
 .Dashboard .LeftBox1 a {
   display: flex;
-  margin-top: 5px;
+  
   align-self: flex-end;
   /* align-items: flex-end; */
   font-weight: 700;
@@ -802,4 +803,16 @@ footer{
     width: 30px;
     height: 30px;
   }
+}
+/*======FUNDAMENTAL======*/
+/*======FUNDAMENTAL======*/
+.Fundamental{
+  display: flex;
+  flex-direction: column;
+}
+.Fundamental .Heading h2{
+  font-size: var(--secondary-desktop--font);
+}
+.Fundamental #Container{
+  margin:0;
 }

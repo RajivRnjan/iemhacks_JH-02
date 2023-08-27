@@ -32,7 +32,7 @@ function RoadMapDataScientist() {
                   <td>Programming : Python</td>
                 </tr>
               </ul>
-              <button>View Course</button>
+              <button><Link to="/fundamental">View Course</Link></button>
             </div>
             <div>
               <FaLongArrowAltDown className="arrow" />
@@ -111,7 +111,7 @@ function RoadMapDataScientist() {
                     </li>
                     <li>
                       <PiStarFour className="star-icon" />
-                      Experience : 18- 35 LPY
+                      Experience : 2 year
                     </li>
                   </ul>
                 </div>
@@ -161,7 +161,7 @@ function RoadMapDataScientist() {
                     </li>
                     <li>
                       <PiStarFour className="star-icon" />
-                      Google
+                      TCS
                     </li>
                   </ul>
                 </div>

@@ -12,6 +12,7 @@ import FreeCourses from "./Pages/FreeCourses";
 import PaidCourses from "./Pages/PaidCourses";
 import RoadMapDataScientist from "./Pages/RoadMapDataScientist";
 import Logout from "./Pages/Logout";
+import Fundamental from "./Pages/Fundamental";
 function App() {
   const [mode, setMode] = useState("light");
 
@@ -96,6 +97,7 @@ function App() {
           <Route exact path="/freecourses" element={<FreeCourses />} />
           <Route exact path="/paidcourses" element={<PaidCourses />} />
           <Route exact path="/roadmapDS" element={<RoadMapDataScientist />} />
+          <Route exact path="/fundamental" element={<Fundamental />} />
           <Route exact path="/logout" element={<Logout />} />
         </Routes>
         <Footer />

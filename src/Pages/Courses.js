@@ -42,7 +42,7 @@ function Courses() {
               </ul>
               <Link to="/freecourses">
                 
-                <button>Get Started</button>
+                <button>View Resources</button>
               </Link>
 
               <div className="Icons">
@@ -61,7 +61,7 @@ function Courses() {
             
             <div className="CourseCard">
             <div className="freeimg">
-              <h3>Resources for</h3>
+              <h3>View Resources</h3>
               <img src="/iemhacks_JH-02/images/Icons/paid.svg" alt="paidimg"/>
             </div>
            
@@ -89,8 +89,8 @@ function Courses() {
                 </li>
               </ul>
               <Link to="/paidcourses">
-               
-                <button>Get Started</button>
+                
+                <button>View Resources</button>
               </Link>
 
               <div className="Icons">
