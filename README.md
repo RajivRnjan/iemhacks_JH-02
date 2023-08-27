@@ -1,10 +1,12 @@
 # PROJECT iemhacks_JH-02
 
-Team’s Registered Email ID: vaibhavsrijan782@gmail.com
 Team name : JH-02
+Team’s Registered Email ID: vaibhavsrijan782@gmail.com
 Team member's name : Vaibhav Srijan , Rajiv Ranjan, Aditya Kumar  and Pawan Kumar 
 Theme chosen : Ed- Tech
-Problem Statement:Creating an effective online platform to guide individuals in their career paths and provide access to various courses and educational resources.
+
+# Problem Statement
+Creating an effective online platform to guide individuals in their career paths and provide access to various courses and educational resources.
 
 
 # TEAM'S GITHUB USERNAME
