@@ -168,32 +168,32 @@ function RoadMapDataScientist() {
               </div>
             </div>
             <div className="RightBottom">
-              <div className="Hedi">
+              <div className="Heading">
                 <h3>Reviews</h3>
               </div>
               <div className="Review">
                 <img
-                  src="/iemhacks_JH-02/images/review/review-1.png"
+                  src="/iemhacks_JH-02/images/Review/review-1.png"
                   alt="review-img"
                 />
                 <img
-                  src="/iemhacks_JH-02/images/review/review-2.png"
+                  src="/iemhacks_JH-02/images/Review/review-2.png"
                   alt="review-img"
                 />
                 <img
-                  src="/iemhacks_JH-02/images/review/review-3.png"
+                  src="/iemhacks_JH-02/images/Review/review-3.png"
                   alt="review-img"
                 />
                 <img
-                  src="/iemhacks_JH-02/images/review/review-4.png"
+                  src="/iemhacks_JH-02/images/Review/review-4.png"
                   alt="review-img"
                 />
                 <img
-                  src="/iemhacks_JH-02/images/review/review-5.png"
+                  src="/iemhacks_JH-02/images/Review/review-5.png"
                   alt="review-img"
                 />
                 <img
-                  src="/iemhacks_JH-02/images/review/review-6.png"
+                  src="/iemhacks_JH-02/images/Review/review-6.png"
                   alt="review-img"
                 />
               </div>
